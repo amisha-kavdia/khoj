@@ -1,0 +1,16 @@
+pandas
+pyarrow
+numpy
+tqdm
+python-dotenv
+sentence-transformers
+faiss-cpu
+bm25s
+PyStemmer
+scikit-learn
+google-genai
+fastapi
+uvicorn
+matplotlib
+jupyter
+ipykernel
